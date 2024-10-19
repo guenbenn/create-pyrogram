@@ -3,7 +3,7 @@
 ---
 **🛠️ Hướng dẫn cài đặt**
 >Yêu cầu đã cài đặt Python 3.11.5
-- Bước 1: Tải file [create-pyrogram-sessions-main.zip](https://github.com/guenbenn/create-pyrogram-sessions/archive/refs/heads/main.zip)
+- Bước 1: Tải file [create-pyrogram-main.zip](https://github.com/guenbenn/create-pyrogram/archive/refs/heads/main.zip)
 - Bước 2: Giải nén, mở thư mục vừa giải nén và cài đặt module `pip install pyrogram`
 - Bước 3: Tạo thư mục sessions
 - Bước 4: Thay api_id và api_hash trong file `main.py`
